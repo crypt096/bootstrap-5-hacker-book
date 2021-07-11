@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-5-netninja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypt096/bootstrap-5-netninja.git"
+  },
+  "author": "crypt0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crypt096/bootstrap-5-netninja/issues"
+  },
+  "homepage": "https://github.com/crypt096/bootstrap-5-netninja#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
+}
