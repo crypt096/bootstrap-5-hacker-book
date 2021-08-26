@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/crypt096/bootstrap-5-netninja#readme",
   "dependencies": {
-    "bootstrap": "^5.0.2"
+    "bootstrap": "^5.1.0"
   }
 }
